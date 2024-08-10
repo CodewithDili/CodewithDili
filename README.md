@@ -1,7 +1,6 @@
 # Hi 👋, I'm Ike-Obasi Dilichi
 
 **Backend Engineer with interest in building products in Fintech, Web3, AI & SaaS industries. Passionate about contributing to Open-source projects and Developer tools.**
-
 ![Profile views](https://komarev.com/ghpvc/?username=CodewithDili&color=blue)
 
 ## Follow me on:
