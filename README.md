@@ -1,19 +1,21 @@
 # Hi 👋, I'm Ike-Obasi Dilichi
 
-**Backend Engineer with interest in building products in Fintech, Web3, AI & SaaS industries. Passionate about contributing to Open-source projects and Developer tools.**
+**Backend Engineer with interest in building products in Fintech, Web3, AI & SaaS industries. Passionate about contributing to Open-source projects and Developer tools.**  
 ![Profile views](https://komarev.com/ghpvc/?username=CodewithDili&color=blue)
 
 ## Follow me on:
 [![Twitter](https://img.shields.io/twitter/follow/0xchetachi?style=social)](https://x.com/0xchetachi/)
 
 ## About Me
-- 🔭 I’m currently working on **MunchMap**
+- 🔭 I’m currently working on **NearbyEats**
 - 🌱 I’m currently learning **Web3.0, JavaScript, Python**
 - 👯 I’m looking to collaborate on **Building Decentralized applications**
 - 🤝 I’m looking to help with **bringing people into the tech space, and helping them grow their careers by contributing to open-source.**
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## GitHub Stats:
 ![Ike-Obasi Dilichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodewithDili&show_icons=true&theme=radical)
