@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/0xchetachi?style=social)](https://x.com/0xchetachi/)
 
 ## About Me
-- 🔭 I’m currently working on **NearbyEats**
+- 🔭 I’m currently working on **Myself**
 - 🌱 I’m currently learning **Web3.0, JavaScript, Python**
 - 👯 I’m looking to collaborate on **Building Decentralized applications**
 - 🤝 I’m looking to help with **bringing people into the tech space, and helping them grow their careers by contributing to open-source.**
